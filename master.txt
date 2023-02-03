@@ -1,1 +1,3 @@
 hi this is me learning version control.
+Hope to grab command on github soon.
+
